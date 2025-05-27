@@ -2,7 +2,7 @@
 
 Authors: Ning Lu, Shengcai Liu, Jiahao Wu, Weiyu Chen, Zhirui Zhang, Yew-Soon Ong, Qi Wang, Ke Tang
 
-This repository contains the official implementation of the HyperAgent algorithm, introduced in our ICML 2025 paper **Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets**.
+This repository contains the official implementation of the Safe Delta algorithm, introduced in our ICML 2025 paper **Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets**.
 
 ![img.png](assets/intro.png)
 

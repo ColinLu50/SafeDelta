@@ -16,6 +16,8 @@ Safe Delta is a safety-aware post-training method that preserves safety alignmen
 
 # ✨Getting Started
 
+Detailed README will be provided soon!
+
 ## Installation
 
 You can install Safe Delta dependencies by running the following commands:

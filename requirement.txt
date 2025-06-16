@@ -1,0 +1,9 @@
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+fire
+peft
+sentencepiece
+datasets
+protobuf
+transformers==4.46.3

@@ -41,6 +41,8 @@ This repository contains the official implementation of the Safe Delta algorithm
 # 📖Introduction
 
 Safe Delta is a safety-aware post-training method that preserves safety alignment regardless of finetuning datasets.
+
+### Key Highlights:
 - **New Problem**: Identifying the challenge of preserving safety across different datasets.
 - **New Approach**: First **safety-aware** parameter modification defense method.
 - **Rigorous Theoretical and Empirical Evaluation**. Use the code in this repo to reproduce our results. 

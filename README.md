@@ -30,7 +30,7 @@ This repository contains the official implementation of the Safe Delta algorithm
 - ✨ [Getting Started](#getting-started)  
 - 🔧 [Usage](#usage)  
 - 📃 [Evaluation](#evaluation)
-- 🔄 [Other Models](#applying to Other Models)
+- 🔄 [Other Models](#applying-to-other-models)
 - 🔖 [Citation](#citation)
 <!-- - 📈 [Star History](#star-history) -->
 

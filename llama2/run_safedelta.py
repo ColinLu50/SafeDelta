@@ -3,10 +3,10 @@
 # This code is adapted from https://github.com/IST-DASLab/sparsegpt
 # The current implementation follows an online processing approach for better code readability.
 
-CUDA_VISIBLE_DEVICES=7 python run_redline_recovery.py \
+CUDA_VISIBLE_DEVICES=0 python run_redline_recovery.py \
 --model_name_align 'ckpts/llama2-7b-chat-hf' \
 --model_name_ft 'finetuned_models/purebad100-7b-full' \
---s 0.11 --st_layer 0
+--s 0.11
 '''
 
 import os

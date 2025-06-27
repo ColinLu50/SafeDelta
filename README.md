@@ -147,7 +147,7 @@ We evaluate model basic utility on MMLU using the [Language Model Evaluation Har
 
 ---
 
-# 🔄 Applying to Other Models
+# 🔄Applying to Other Models
 
 Safe Delta can be easily transferable to different models. *Step-by-step instructions will be added soon.*
 
@@ -157,7 +157,7 @@ Safe Delta can be easily transferable to different models. *Step-by-step instruc
 
 
 
-# 🔖 Citation
+# 🔖Citation
 If you find our model, data, or evaluation code useful, please kindly cite our paper:
 ```bib
 @inproceedings{
